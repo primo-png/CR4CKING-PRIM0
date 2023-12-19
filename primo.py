@@ -801,7 +801,7 @@ def sub():
     print ("")
     print(" Your Key is Not Approved ")
     print("")
-    print("MODE OF PAYMENT: GCASH")
+    print("MODE OF PAYMENT: GCASH OR LOAD")
     print ("")
     print (" Your Key : "+ak+ah+key1 )
     print ("")
